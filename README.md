@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @flutebes
-- 👀 I’m interested in biology and machine learning
 - 🌱 I’m currently learning Python
 - 🎻 I am a fan of Twoset Violin
 
